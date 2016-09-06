@@ -1,6 +1,6 @@
 {
   "name": "fast-react-server-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader for fast-react-server",
   "main": "index.js",
   "repository": {
@@ -20,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/alt-j/fast-react-server-loader/issues"
   },
-  "homepage": "https://github.com/alt-j/fast-react-server-loader#readme"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
