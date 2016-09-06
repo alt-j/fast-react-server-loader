@@ -1,0 +1,24 @@
+{
+  "name": "fast-react-server-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for fast-react-server",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-j/fast-react-server-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "fast",
+    "react",
+    "render",
+    "server"
+  ],
+  "author": "Andrey Morozov <altjs@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alt-j/fast-react-server-loader/issues"
+  },
+  "homepage": "https://github.com/alt-j/fast-react-server-loader#readme"
+}
